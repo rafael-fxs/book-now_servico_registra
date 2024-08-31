@@ -1,4 +1,4 @@
-package com.booknow.servico.registra;
+package com.booknow.registra;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

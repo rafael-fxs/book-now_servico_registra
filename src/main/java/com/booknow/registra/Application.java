@@ -1,4 +1,4 @@
-package com.booknow.servico.registra;
+package com.booknow.registra;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

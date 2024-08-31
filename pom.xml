@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.booknow</groupId>
-	<artifactId>servico.registra</artifactId>
+	<artifactId>registra</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>servico.registra</name>
+	<name>registra</name>
 	<description>Projeto para registrar os serviços</description>
 	<url/>
 	<licenses>
