@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../BookNow_Usuarios" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Microservico-livro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../book-now_servico_pontos" vcs="Git" />
   </component>
 </project>

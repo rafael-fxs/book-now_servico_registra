@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../book-now_servico_pontos/pom.xml" />
+        <option value="$PROJECT_DIR$/../Microservico-livro/BookNow-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../BookNow_Usuarios/BookNowUsuario/pom.xml" />
       </list>
     </option>
   </component>
