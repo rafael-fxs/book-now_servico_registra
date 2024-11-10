@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/../BookNow_Usuarios/BookNowUsuario/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../BookNow_Usuarios/BookNowUsuario/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../Microservico-livro/BookNow-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../book-now_servico_apigateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../book-now_servico_pontos/src/main/java" charset="UTF-8" />
