@@ -6,5 +6,6 @@
     <mapping directory="$PROJECT_DIR$/../Microservico-livro" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../book-now_servico_apigateway" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../book-now_servico_pontos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../booknow_avaliacao" vcs="Git" />
   </component>
 </project>

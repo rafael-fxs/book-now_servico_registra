@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/../Microservico-livro/BookNow-service/pom.xml" />
         <option value="$PROJECT_DIR$/../BookNow_Usuarios/BookNowUsuario/pom.xml" />
         <option value="$PROJECT_DIR$/../book-now_servico_apigateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../booknow_avaliacao/pom.xml" />
       </list>
     </option>
   </component>
